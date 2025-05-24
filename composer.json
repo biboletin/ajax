@@ -1,0 +1,19 @@
+{
+    "name": "bibo/ajax",
+    "description": "Ajax handler",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bibo\\Ajax\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "biboletin",
+            "email": "shady_fan@abv.bg"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
